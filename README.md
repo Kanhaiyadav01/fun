@@ -1,1 +1,1 @@
-# fun
+# nQueens problem 
